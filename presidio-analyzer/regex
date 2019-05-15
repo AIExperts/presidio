@@ -1,0 +1,31 @@
+Value	Description
+(^|\s)([A-Za-z]\d{7})($|\s|\.\s)	Australia Passport Number
+(?:^|[\s,;\:\(\)\[\]"'])[A-z][\s]?\d{7}(?:$|[\s,\;\:\(\)\[\]"']|\.\s|\.$)	Austria Eu Passport Number
+(?:^|[\s,;\:\(\)\[\]"'])[A-z]{2}\d{6}(?:$|[\s,\;\:\(\)\[\]"']|\.\s|\.$)	Belgium Eu Passport Number
+(?:^|[\s,;\:\(\)\[\]"'])\d{9}(?:$|[\s,\;\:\(\)\[\]"']|\.\s|\.$)	Bulgaria Eu Passport Number
+(?ix)(^|\s)([A-Z]{2})(\d{6})($|\s|\.\s)	Canada Passport Number
+(?:^|[\s,;\:\(\)\[\]"'])\d{9}(?:$|[\s,\;\:\(\)\[\]"']|\.\s|\.$)	Croatia Eu Passport Number
+(?:^|[\s,;\:\(\)\[\]"'])[A-z]\d{6}\d?\d?(?:$|[\s,\;\:\(\)\[\]"']|\.\s|\.$)	Cyprus Eu Passport Number
+(?:^|[\s,;\:\(\)\[\]"'])\d{8}(?:$|[\s,\;\:\(\)\[\]"']|\.\s|\.$)	Czech Republic Eu Passport Number
+(?:^|[\s,;\:\(\)\[\]"'])\d{9}(?:$|[\s,\;\:\(\)\[\]"']|\.\s|\.$)	Denmark Eu Passport Number
+(?:^|[\s,;\:\(\)\[\]"'])[A-z]\d{7}(?:$|[\s,\;\:\(\)\[\]"']|\.\s|\.$)	Estonia Eu Passport Number
+(?ix)(?:^|[\s,;\:\(\)\[\]"'])[A-Z]{2}\d{7}(?:$|[\s,\;\:\(\)\[\]"']|\.\s|\.$)	Finland Passport Number
+(?:^|[\s,;\:\(\)\[\]"'])[A-z]{2}\d{7}(?:$|[\s,\;\:\(\)\[\]"']|\.\s|\.$)	Greece Eu Passport Number
+(?:^|[\s,;\:\(\)\[\]"'])[A-z]{2}\d{6}\d?(?:$|[\s,\;\:\(\)\[\]"']|\.\s|\.$)	Hungary Eu Passport Number
+(?:^|[\s,;\:\(\)\[\]"'])\w{2}\d{7}(?:$|[\s,\;\:\(\)\[\]"']|\.\s|\.$)	Ireland Eu Passport Number
+(?:^|[\s,;\:\(\)\[\]"'])\w{2}\d{7}(?:$|[\s,\;\:\(\)\[\]"']|\.\s|\.$)	Italy Eu Passport Number
+(?:^|[\s,;\:\(\)\[\]"'])\w{2}\d{7}(?:$|[\s,\;\:\(\)\[\]"']|\.\s|\.$)	Latvia Eu Passport Number
+(?:^|[\s,;\:\(\)\[\]"'])\d{8}(?:$|[\s,\;\:\(\)\[\]"']|\.\s|\.$)	Lithuania Eu Passport Number
+(?:^|[\s,;\:\(\)\[\]"'])\w{8}(?:$|[\s,\;\:\(\)\[\]"']|\.\s|\.$)	Luxemburg Eu Passport Number
+(?:^|[\s,;\:\(\)\[\]"'])\d{7}(?:$|[\s,\;\:\(\)\[\]"']|\.\s|\.$)	Malta Eu Passport Number
+(?:^|[\s,;\:\(\)\[\]"'])\w{9}(?:$|[\s,\;\:\(\)\[\]"']|\.\s|\.$)	Netherlands Eu Passport Number
+(?:^|[\s,;\:\(\)\[\]"'])[A-z]\d{6}(?:$|[\s,\;\:\(\)\[\]"']|\.\s|\.$)	Portugal Eu Passport Number
+(?:^|[\s,;\:\(\)\[\]"'])\d{8}\d?(?:$|[\s,\;\:\(\)\[\]"']|\.\s|\.$)	Romania Eu Passport Number
+(?:^|[\s,;\:\(\)\[\]"'])\w\d{7}(?:$|[\s,\;\:\(\)\[\]"']|\.\s|\.$)	Slovakia Eu Passport Number
+(?:^|[\s,;\:\(\)\[\]"'])[P][A-Z]\d{7}(?:$|[\s,\;\:\(\)\[\]"']|\.\s|\.$)	Slovenia Eu Passport Number
+(?:^|[\s,;\:\(\)\[\]"'])[A-z]{3}\d{6}[A-z]?(?:$|[\s,\;\:\(\)\[\]"']|\.\s|\.$)	Spain Eu Passport Number
+(^|\s)(\d{8})($|\s|\.\s)	Sweden Passport Number
+(?:^|[\s,;\:\(\)\[\]"'])(\d{9}|3\d{8})(?:$|[\s,\;\:\(\)\[\]"']|\.\s|\.$)	Taiwan Passport
+
+
+
