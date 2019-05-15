@@ -1,4 +1,5 @@
 Value	Description
+(?:^|[\s,;\:\(\)\[\]"'])\d{9}(?:$|[\s,\;\:\(\)\[\]"']|\.\s|\.$)
 (^|\s)([A-Za-z]\d{7})($|\s|\.\s)	Australia Passport Number
 (?:^|[\s,;\:\(\)\[\]"'])[A-z][\s]?\d{7}(?:$|[\s,\;\:\(\)\[\]"']|\.\s|\.$)	Austria Eu Passport Number
 (?:^|[\s,;\:\(\)\[\]"'])[A-z]{2}\d{6}(?:$|[\s,\;\:\(\)\[\]"']|\.\s|\.$)	Belgium Eu Passport Number
@@ -29,3 +30,65 @@ Value	Description
 
 
 
+alien registration card
+ausstellungsdatum
+ausstellungsort
+bnationalit.t
+broj putovnice
+canadian citizens
+canadian citizenship
+certified translator
+cestovní pas
+číslo pasu
+commonwealth of australia
+department of immigration
+department of immigration and citizenship
+eesti kodaniku pass
+g3 processing fees
+geburtsdatum
+immigration and citizenship
+issuing authority
+multiple entry
+national identity card
+numărul pașaportului
+numru tal-passaport
+pas
+pasaporte
+pase numurs
+pasnummer
+paso numeris
+paspoort
+passaporto
+passeport
+passi
+passi nuber
+passi pass
+passnummer
+passport
+paszport
+processing times
+reisepass
+renewal application
+residential address
+single entry
+številka potnega lista
+travel document
+útlevél száma
+visa
+zhōnghuá mínguó hùzhào
+αριθμό διαβατηρίου
+διαβατηριο
+номер на паспорта
+パスポート
+パスポート番号
+中華民國護照
+护照
+
+examples
+32598535
+FP1325234
+AN9458934
+RH1715258
+553526505
+ZB7633117
+568299867
